@@ -1,4 +1,4 @@
-# a-leetcode-a-day-keeps-unemployment-away
+# A Leetcode a Day Keeps Your Skill Up With Pay
 
 This is a knowledge base for our study in programming.
 
