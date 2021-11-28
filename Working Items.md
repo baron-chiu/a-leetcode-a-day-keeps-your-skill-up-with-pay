@@ -29,5 +29,9 @@
 	```
 #### Ref
 *[What are the differences between a pointer variable and a reference variable in C++?](https://stackoverflow.com/questions/57483/what-are-the-differences-between-a-pointer-variable-and-a-reference-variable-in)
+
 ### 2021-11-24
-* [[33. Search in Rotated Sorted Array]]
+
+- [ ] ![[33. Search in Rotated Sorted Array#What's the usage of mid l r-l]]
+- [ ] ![[33. Search in Rotated Sorted Array#Why can Sliding Window get all the longest usbsctring]]
+
