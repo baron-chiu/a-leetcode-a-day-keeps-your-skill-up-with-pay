@@ -32,6 +32,6 @@
 
 ### 2021-11-24
 
-- [ ] ![[33. Search in Rotated Sorted Array#What's the usage of mid l r-l]]
-- [ ] ![[33. Search in Rotated Sorted Array#Why can Sliding Window get all the longest usbsctring]]
+- [ ] [[33. Search in Rotated Sorted Array]] ![[33. Search in Rotated Sorted Array#What's the usage of mid l r-l]]
+- [ ] [[33. Search in Rotated Sorted Array]] ![[33. Search in Rotated Sorted Array#Why can Sliding Window get all the longest substrings]]
 
