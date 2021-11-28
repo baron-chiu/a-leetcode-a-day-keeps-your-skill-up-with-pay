@@ -35,3 +35,5 @@
 - [ ] [[33. Search in Rotated Sorted Array]] ![[33. Search in Rotated Sorted Array#What's the usage of mid l r-l]]
 - [ ] [[33. Search in Rotated Sorted Array]] ![[33. Search in Rotated Sorted Array#Why can Sliding Window get all the longest substrings]]
 
+- [ ] [[2080. Range Frequency Queries]] ![[What is segment tree?]]
+- [ ] [[2080. Range Frequency Queries]] ![[Implement Bisect]]
