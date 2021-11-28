@@ -37,3 +37,4 @@
 
 - [ ] [[2080. Range Frequency Queries]] ![[What is segment tree?]]
 - [ ] [[2080. Range Frequency Queries]] ![[Implement Bisect]]
+- [ ] [[1038. Binary Search Tree to Greater Sum Tree]] ![[What is tree traversal order]]
