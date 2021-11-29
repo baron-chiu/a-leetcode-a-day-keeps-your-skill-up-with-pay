@@ -32,9 +32,9 @@
 
 ### 2021-11-24
 
-- [ ] [[33. Search in Rotated Sorted Array]] ![[33. Search in Rotated Sorted Array#What's the usage of mid l r-l]]
-- [ ] [[33. Search in Rotated Sorted Array]] ![[33. Search in Rotated Sorted Array#Why can Sliding Window get all the longest substrings]]
+- [ ] ![[What's the usage of `mid = l * (r-l)`]]
+- [ ] ![[Why can Sliding Window get all the longest substrings?]]
 
-- [ ] [[2080. Range Frequency Queries]] ![[What is segment tree?]]
-- [ ] [[2080. Range Frequency Queries]] ![[Implement Bisect]]
-- [ ] [[1038. Binary Search Tree to Greater Sum Tree]] ![[What is tree traversal order]]
+- [ ] ![[What is segment tree?]]
+- [ ] ![[Implement Bisect]]
+- [ ] ![[What is tree traversal order]]
