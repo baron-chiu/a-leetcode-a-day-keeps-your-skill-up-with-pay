@@ -8,7 +8,7 @@
 
 The Sliding Window begins at the first letter. It finds the first longest substring withoug repeating characters beginning from the first letter. It's the first window.
 
-Say the character **$** next to the end of the first window. The window must contain the charatcter, **$**. Let the next window begin at the character next the the first **$**. Collection all the windows in such precedures is the sliding window we have.
+Say the character, **$**, next to the end of the first window. The window must contain the charatcter, **$**. Let the next window begin at the character next the the first **$**. Collection all the windows in such precedures is the sliding window we have.
 
 ## Proof
 
