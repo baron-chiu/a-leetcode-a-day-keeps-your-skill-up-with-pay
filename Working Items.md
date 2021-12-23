@@ -11,6 +11,8 @@
 @fun2
 @fun3
 def foo():
+
+fun1(fun2(fun3(foo(args))))
 ```
 * reference is syntax suger
 	* compiler will apply `*` automatically.
@@ -19,6 +21,7 @@ def foo():
 	```cpp
 	int x = 5;
 	int y = 6;
+	// int *p = &x;
 	int *p;
 	p = &x;
 	p = &y;
