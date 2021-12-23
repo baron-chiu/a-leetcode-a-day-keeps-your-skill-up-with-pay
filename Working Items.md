@@ -5,6 +5,13 @@
 * assignee: #Jordan 
 
 #### Difference 
+
+``` py
+@fun1
+@fun2
+@fun3
+def foo():
+```
 * reference is syntax suger
 	* compiler will apply `*` automatically.
 	* can't point to null object
